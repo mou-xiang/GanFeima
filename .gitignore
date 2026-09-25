@@ -1,0 +1,5 @@
+assets/
+!assets/gfms.h
+build/
+.cache/
+compile_commands.json
