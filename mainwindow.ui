@@ -17,37 +17,37 @@
    <widget class="QTextEdit" name="textEdit">
     <property name="geometry">
      <rect>
-      <x>0</x>
-      <y>0</y>
-      <width>601</width>
-      <height>561</height>
+      <x>10</x>
+      <y>10</y>
+      <width>611</width>
+      <height>531</height>
      </rect>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="commitButton">
     <property name="geometry">
      <rect>
-      <x>650</x>
-      <y>150</y>
+      <x>660</x>
+      <y>140</y>
       <width>86</width>
       <height>26</height>
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>确定</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="clearButton">
     <property name="geometry">
      <rect>
-      <x>650</x>
-      <y>310</y>
+      <x>660</x>
+      <y>320</y>
       <width>86</width>
       <height>26</height>
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>清除</string>
     </property>
    </widget>
   </widget>
